@@ -1,2 +1,5 @@
 config:
   info: master branch,version3
+  
+server:
+  port: 3377
